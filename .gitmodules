@@ -1,6 +1,6 @@
 [submodule "libfmt"]
 	path = libfmt
-	url = https://github.com/fmtlib/fmt
+	url = git@github.com:fmtlib/fmt.git
 [submodule "libgit2"]
 	path = libgit2
-	url = https://github.com/libgit2/libgit2
+	url = git@github.com:libgit2/libgit2.git
